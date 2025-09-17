@@ -2,8 +2,8 @@ Package: ohwhaley
 Title: Practice package
 Version: 0.0.0.9000
 Authors@R: 
-    person("Harsh", "Desai", , "harsh.desai@students.mq.edu.au", role = c("Harsh", "Harsh"))
-Description: Learing and practicing how to use owhaley and creating packages.
+    person("Harsh", "Desai", , "harsh.desai@students.mq.edu.au", role = c("aut", "cre"))
+Description: Learning and practicing how to use owhaley and creating packages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
